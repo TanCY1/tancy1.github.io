@@ -19,6 +19,5 @@ img{
 .profile{
   max-width: 25vw;
   height: auto;
-  top: 50%;
-  transform: translateY(50%);
+  display:block;
 }
