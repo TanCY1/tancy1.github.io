@@ -17,6 +17,8 @@ img{
   border-radius: 50%;
 }
 .profile{
-  max-width: 50%;
+  max-width: 25vw;
   height: auto;
+  top: 50%;
+  transform: translateY(-50%);
 }
