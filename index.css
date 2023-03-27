@@ -1,12 +1,18 @@
-.cover{
-    position:relative;
-    background:black;
-    width:100vw;
-    height:100vh;
-    text-align: center;
-    color:white;
+.backg{
+  background:black;
+  width:100vw;
+  height:100vh;
+  text-align: center;
+  color:white;
 }
-html, body ,h1{
-  margin:0;
-  height:100%;
+body{
+position:relative;
+margin:0;
+height:100%;
+}
+p{
+margin:0;
+}
+.profile{
+height:50vh;
 }
