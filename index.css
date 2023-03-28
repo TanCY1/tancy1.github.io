@@ -2,10 +2,10 @@
   background:black;
   width:100vw;
   height:100vh;
-  text-align: center;
   color:white;
    display:flex;
   align-items:center;
+  justify-content:flex-start;
 }
 body{
 position:relative;
@@ -23,4 +23,12 @@ img{
   text-align: center;
   font-size:3vh;
   margin-left:7vw;
+}
+.aboutme{
+  vertical-align: text-top;
+  margin-left:7vw;
+  padding-right:7vw
+}
+p{
+  word-wrap: normal;
 }
