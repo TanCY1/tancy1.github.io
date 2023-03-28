@@ -15,9 +15,10 @@ height:100%;
 
 img{
   border-radius: 50%;
+  height:50vh;
+  width:auto;
 }
 .profile{
-  max-width: 100%;
-  height: auto;
   text-align: center;
+  font-size:3vh;
 }
