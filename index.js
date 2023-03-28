@@ -1,0 +1,1 @@
+jQuery("#profile").fitText(1.618);
