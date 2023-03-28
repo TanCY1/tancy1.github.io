@@ -1,4 +1,7 @@
 function getscreensize() {
-    document.getElementById("screenwidth").innerHTML = window.innerWidth;
-}
-window.addEventListener('resize', getscreensize);
+    let screenwidth=window.innerWidth;
+  document.getElementById("screenwidth").innerHTML = screenwidth;
+  }
+  getscreensize();
+  window.addEventListener('resize', getscreensize);
+  
