@@ -1,7 +1,2 @@
-function getscreensize() {
-    let screenwidth=window.innerWidth;
-  document.getElementById("screenwidth").innerHTML = screenwidth;
-  }
-  getscreensize();
-  window.addEventListener('resize', getscreensize);
-  
+const aspectRatio = window.screen.width / window.screen.height;
+alert(`Aspect ratio: ${aspectRatio}`);
