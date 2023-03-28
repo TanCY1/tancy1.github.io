@@ -15,8 +15,9 @@ height:100%;
 
 img{
   border-radius: 50%;
-  height:50vh;
+  max-height:50vh;
   width:auto;
+  max-width:25vw;
 }
 .profile{
   text-align: center;
