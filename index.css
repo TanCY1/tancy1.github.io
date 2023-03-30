@@ -18,6 +18,7 @@ img{
   max-height:50vh;
   width:auto;
   max-width:25vw;
+  margin-top:7vh;
 }
 .profile{
   text-align: center;
@@ -26,7 +27,9 @@ img{
 .aboutme{
   vertical-align: text-top;
   margin-left:7vw;
-  padding-right:7vw
+  padding-right:7vw;
+  
+  font-size:5vw;
 }
 p{
   word-wrap: normal;
