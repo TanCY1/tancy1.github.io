@@ -13,6 +13,12 @@ margin:0;
 height:100%;
 }
 
+.list{
+  margin-left: 4vw;
+}
+.title{
+  font-size: 5vw;
+}
 img{
   border-radius: 50%;
   max-height:50vh;
@@ -29,7 +35,7 @@ img{
   margin-left:7vw;
   padding-right:7vw;
   
-  font-size:5vw;
+  font-size:2vw;
 }
 p{
   word-wrap: normal;
